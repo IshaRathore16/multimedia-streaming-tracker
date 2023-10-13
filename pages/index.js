@@ -144,11 +144,7 @@ export default function Home() {
         </div>
       )}
 
-      <div className="mt-20 mb-10 text-center">
-        <p className="text-primary text-xs">
-          ALX Portfolio Project
-        </p>
-      </div>
+ 
     </div>
   );
 }
